@@ -82,3 +82,9 @@ primeiro acerto.
 - [ ] A média de todos os alunos está igual à esperada
 - [ ] A situação de todos os alunos está igual à esperada
 - [ ] Consigo explicar, com minhas palavras, cada bug que corrigi
+
+## Sobre o bug
+
+O cálculo da média começava no índice `1` da lista de notas, ignorando a
+primeira nota de cada aluno. O laço foi ajustado para começar no índice `0`,
+fazendo com que todas as notas sejam consideradas.
