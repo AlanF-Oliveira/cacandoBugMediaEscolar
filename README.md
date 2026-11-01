@@ -79,9 +79,9 @@ primeiro acerto.
 
 ### Checklist
 
-- [ ] A média de todos os alunos está igual à esperada
-- [ ] A situação de todos os alunos está igual à esperada
-- [ ] Consigo explicar, com minhas palavras, cada bug que corrigi
+- [x] A média de todos os alunos está igual à esperada
+- [x] A situação de todos os alunos está igual à esperada
+- [x] Consigo explicar, com minhas palavras, cada bug que corrigi
 
 ## Sobre o bug
 
