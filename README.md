@@ -92,3 +92,7 @@ fazendo com que todas as notas sejam consideradas.
 Na classificação da situação, a aprovação usava `media > 7.0`, fazendo com
 que médias exatamente iguais a `7.0` fossem classificadas como recuperação.
 Essa condição foi alterada para `media >= 7.0`, conforme a regra da escola.
+
+O limite de recuperação estava definido como `6.5`, fazendo com que médias
+entre `5.0` e `6.49` fossem consideradas reprovação. O valor foi corrigido
+para `5.0`, conforme a regra da escola.
