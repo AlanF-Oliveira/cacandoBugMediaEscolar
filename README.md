@@ -88,3 +88,7 @@ primeiro acerto.
 O cálculo da média começava no índice `1` da lista de notas, ignorando a
 primeira nota de cada aluno. O laço foi ajustado para começar no índice `0`,
 fazendo com que todas as notas sejam consideradas.
+
+Na classificação da situação, a aprovação usava `media > 7.0`, fazendo com
+que médias exatamente iguais a `7.0` fossem classificadas como recuperação.
+Essa condição foi alterada para `media >= 7.0`, conforme a regra da escola.
